@@ -64,5 +64,5 @@ Load test
  <img width="2868" height="1563" alt="Screenshot 2025-09-18 040156" src="https://github.com/user-attachments/assets/fcb6a541-1164-4eb0-8449-dc830251ce7e" />
 <img width="2793" height="986" alt="Screenshot 2025-09-18 040208" src="https://github.com/user-attachments/assets/f39adadd-1dcd-4059-a1b6-df98bf37644d" />
 
-Result:
+# Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
